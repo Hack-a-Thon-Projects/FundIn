@@ -1,0 +1,6 @@
+Investor Form details (previous investments) optional
+Make company profile page dynamic
+View conversations with investors for company
+Investor Listing Page
+
+Transaction & Payment:
